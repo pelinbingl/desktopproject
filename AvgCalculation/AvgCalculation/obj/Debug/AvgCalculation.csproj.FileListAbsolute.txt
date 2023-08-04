@@ -1,0 +1,11 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\bin\Debug\AvgCalculation.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\bin\Debug\AvgCalculation.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\bin\Debug\AvgCalculation.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.Form1.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\AvgCalculation\AvgCalculation\obj\Debug\AvgCalculation.pdb
