@@ -1,0 +1,11 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\OddOrEvenNumber.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.Form1.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\OddOrEvenNumber.pdb
