@@ -1,0 +1,11 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\bin\Debug\SumTwoNumbers.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\bin\Debug\SumTwoNumbers.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\bin\Debug\SumTwoNumbers.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.Form1.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\SumTwoNumbers\SumTwoNumbers\obj\Debug\SumTwoNumbers.pdb
