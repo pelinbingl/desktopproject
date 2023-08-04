@@ -1,0 +1,11 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.Form1.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\bin\Debug\PowerOfANumber.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\bin\Debug\PowerOfANumber.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\bin\Debug\PowerOfANumber.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\PowerOfANumber\PowerOfANumber\obj\Debug\PowerOfANumber.pdb
