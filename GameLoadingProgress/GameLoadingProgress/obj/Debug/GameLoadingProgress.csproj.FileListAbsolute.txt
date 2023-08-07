@@ -1,0 +1,11 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\bin\Debug\GameLoadingProgress.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\bin\Debug\GameLoadingProgress.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\bin\Debug\GameLoadingProgress.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.csproj.SuggestedBindingRedirects.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.Form1.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\GameLoadingProgress\GameLoadingProgress\obj\Debug\GameLoadingProgress.pdb
