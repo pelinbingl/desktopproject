@@ -1,0 +1,13 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\bin\Debug\ŞifrelemeVeKullanıcıAdı.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\bin\Debug\ŞifrelemeVeKullanıcıAdı.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\bin\Debug\ŞifrelemeVeKullanıcıAdı.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.Form1.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\bin\Debug\Database1.mdf
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\bin\Debug\Database1_log.ldf
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifrelemeVeKullanıcıAdı\ŞifrelemeVeKullanıcıAdı\obj\Debug\ŞifrelemeVeKullanıcıAdı.FormYükleniyor.resources
