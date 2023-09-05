@@ -1,0 +1,5 @@
+Id|KullaniciAdi|Sifre|Platform|Algoritma|AlgoritmaliSifre|Email
+1|Serkan|123|Hepsiburada|||serkan.devrim@innosa.com.tr
+2|Pelin|123|İnsagram|||
+3|Öykü|123|Twitter|||
+4|Öykü|123|Linkedin|||
