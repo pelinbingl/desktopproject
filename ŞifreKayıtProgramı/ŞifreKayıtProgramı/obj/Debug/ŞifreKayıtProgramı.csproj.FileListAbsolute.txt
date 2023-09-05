@@ -1,0 +1,26 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\Database1.mdf
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\Database1_log.ldf
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\ŞifreKayıtProgramı.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\ŞifreKayıtProgramı.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\ŞifreKayıtProgramı.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.FormKayit.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.FormProgressBar.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\Database1.mdf
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\Database1_log.ldf
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\ŞifreKayıtProgramı.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\ŞifreKayıtProgramı.exe
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\bin\Debug\ŞifreKayıtProgramı.pdb
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.FormKayit.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.FormProgressBar.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.exe
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\ŞifreKayıtProgramı\ŞifreKayıtProgramı\obj\Debug\ŞifreKayıtProgramı.pdb
