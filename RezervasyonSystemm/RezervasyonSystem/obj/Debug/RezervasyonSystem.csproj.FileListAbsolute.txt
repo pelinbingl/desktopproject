@@ -1,0 +1,46 @@
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\RezervasyonSystem.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\RezervasyonSystem.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\RezervasyonSystem.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.exe
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormMüsteriKayit.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormAnasayfa.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\Database1.mdf
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\Database1_log.ldf
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormMüsteri.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormLogIn.resources
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\Antlr3.Runtime.dll
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\WebGrease.dll
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.CopyComplete
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bingl\OneDrive\Masaüstü\Staj\RezervasyonSystem\RezervasyonSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\Database1.mdf
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\Database1_log.ldf
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\RezervasyonSystem.exe.config
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\RezervasyonSystem.exe
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\RezervasyonSystem.pdb
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\Antlr3.Runtime.dll
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\WebGrease.dll
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.AssemblyReference.cache
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormLogIn.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormAnasayfa.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormMüsteri.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.FormMüsteriKayit.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.Properties.Resources.resources
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.GenerateResource.cache
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.CoreCompileInputs.cache
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.csproj.CopyComplete
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.exe
+C:\Users\bingl\OneDrive\Masaüstü\projeler\.Net Forms(C#)\RezervasyonSystem\RezervasyonSystem\obj\Debug\RezervasyonSystem.pdb
